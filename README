@@ -5,15 +5,23 @@ Please see the corresponding sections below for details.
 Dependencies
 ============
 
-  URI: <first dependency>
-  branch: <branch name>
+  URI: https://github.com/agherzan/meta-raspberrypi
+  branch: dunfell
 
-  URI: <second dependency>
-  branch: <branch name>
+  URI: https://github.com/rauc/meta-rauc-community
+  branch: dunfell
 
-  .
-  .
-  .
+  URI: https://github.com/rauc/meta-rauc
+  branch: dunfell
+  
+  URI: https://github.com/ni/meta-security
+  branch: dunfell
+  
+  URI: https://github.com/openembedded/meta-openembedded
+  branch: dunfell
+  
+  URI: https://github.com/meta-homeassistant/meta-homeassistant
+  branch: dunfell
 
 Patches
 =======
