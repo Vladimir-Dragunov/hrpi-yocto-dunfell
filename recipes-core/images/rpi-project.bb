@@ -10,7 +10,6 @@ IMAGE_INSTALL_append += " \
 	packagegroup-core-boot \
 	python3-homeassistant \
 	python3-appdaemon \
-	firewalld \
 "
 
 RDEPENDS_remove += "iptables"
