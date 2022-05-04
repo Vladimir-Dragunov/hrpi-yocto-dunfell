@@ -23,6 +23,9 @@ Dependencies
   URI: https://github.com/meta-homeassistant/meta-homeassistant
   branch: dunfell
 
+  URI: https://booting.oniroproject.org/distro/meta-python-mixin.git
+  branch: dunfell
+
 Patches
 =======
 
